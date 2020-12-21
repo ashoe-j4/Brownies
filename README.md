@@ -1,2 +1,1 @@
-# Brownies
-My brownie recipe
+This is a recipe to make delicious, fudgy brownies. It is really easy and scrumptious! 
